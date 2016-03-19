@@ -1,0 +1,14 @@
+$ git log
+commit d443f7a12c9c577f39cdd31949d8d12550063393
+Author: Andrew <vasandrew456@mail.ru>
+Date:   Sat Mar 19 13:03:53 2016 +0300
+
+    Add status.txt
+
+
+commit 0b10582647fb27d4fc45a3a37e6a2bfb6974ecff
+Author: Andrew <vasandrew456@mail.ru>
+Date:   Sat Mar 19 12:58:37 2016 +0300
+
+    Add .gitignore
+
